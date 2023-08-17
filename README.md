@@ -8,4 +8,6 @@ During Evaluation, studnets can ask question where they find confusion.
 
 Student MUST reply if anybody comment on their program.
 
+Put solution in "Solution<ProgramNo>.py" file
+
 
