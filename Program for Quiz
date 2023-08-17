@@ -16,5 +16,5 @@
     Display the inventory file with amount of each Item and copy to another file "inventory_Copy.csv".
 7.  Write a program to create "intro.txt" file.  Print only even number of row.
 8.  Create Contact.csv file which contain name,contact. Use "|" as Delimiter.
-    Print only those record where contact start with "95"
+    Search perticular contact by entering person name . 
 
